@@ -1,0 +1,20 @@
+{
+    "upload_id": "f4b282dd-9c84-46f4-b349-54dc2881142c",
+    "original_name": "iris",
+    "username": "raone",
+    "upload_time": "2025-05-02T21:06:05.809349+00:00",
+    "columns": [
+        "sepal.length",
+        "sepal.width",
+        "petal.length",
+        "petal.width",
+        "variety"
+    ],
+    "linked_models": [
+        {
+            "model_type": "random_forest_classifier",
+            "model_path": "C:\\Users\\HP\\OneDrive\\Desktop\\Data\\DataForge\\backend\\app\\api\\models\\raone\\f4b282dd-9c84-46f4-b349-54dc2881142c_random_forest_classifier.pkl",
+            "trained_at": "2025-05-02T21:06:49.160775+00:00"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "model_name": "RandomForestClassifier",
+    "upload_id": "56496952-394f-4f79-8dd0-b28c7fcea4bf",
+    "model_type": "random_forest_classifier",
+    "username": "anirban",
+    "trained_at": "2025-05-04T12:40:11.697816+00:00",
+    "metrics": {
+        "accuracy": 0.8047203565375682,
+        "f1_score": 0.8045337417286917,
+        "r2_score": 0,
+        "mse": 0,
+        "auc_roc": 0.8545895009839277
+    },
+    "model_path": "C:\\Users\\HP\\OneDrive\\Desktop\\Data\\DataForge\\backend\\app\\api\\models\\anirban\\56496952-394f-4f79-8dd0-b28c7fcea4bf_random_forest_classifier.pkl",
+    "tuner_type": "none",
+    "automl": false,
+    "shap_plot_path": null
+}

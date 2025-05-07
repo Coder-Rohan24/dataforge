@@ -1,0 +1,27 @@
+{
+    "upload_id": "56496952-394f-4f79-8dd0-b28c7fcea4bf",
+    "original_name": "Titanic-Dataset",
+    "username": "anirban",
+    "upload_time": "2025-05-04T12:38:51.049659+00:00",
+    "columns": [
+        "PassengerId",
+        "Survived",
+        "Pclass",
+        "Name",
+        "Sex",
+        "Age",
+        "SibSp",
+        "Parch",
+        "Ticket",
+        "Fare",
+        "Cabin",
+        "Embarked"
+    ],
+    "linked_models": [
+        {
+            "model_type": "random_forest_classifier",
+            "model_path": "C:\\Users\\HP\\OneDrive\\Desktop\\Data\\DataForge\\backend\\app\\api\\models\\anirban\\56496952-394f-4f79-8dd0-b28c7fcea4bf_random_forest_classifier.pkl",
+            "trained_at": "2025-05-04T12:40:11.700053+00:00"
+        }
+    ]
+}
