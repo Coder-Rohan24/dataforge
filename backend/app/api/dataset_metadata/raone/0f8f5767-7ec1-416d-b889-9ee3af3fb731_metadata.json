@@ -1,0 +1,27 @@
+{
+    "upload_id": "0f8f5767-7ec1-416d-b889-9ee3af3fb731",
+    "original_name": "Titanic-Dataset",
+    "username": "raone",
+    "upload_time": "2025-05-02T21:09:40.185193+00:00",
+    "columns": [
+        "PassengerId",
+        "Survived",
+        "Pclass",
+        "Name",
+        "Sex",
+        "Age",
+        "SibSp",
+        "Parch",
+        "Ticket",
+        "Fare",
+        "Cabin",
+        "Embarked"
+    ],
+    "linked_models": [
+        {
+            "model_type": "logistic_regression",
+            "model_path": "C:\\Users\\HP\\OneDrive\\Desktop\\Data\\DataForge\\backend\\app\\api\\models\\raone\\0f8f5767-7ec1-416d-b889-9ee3af3fb731_logistic_regression.pkl",
+            "trained_at": "2025-05-02T21:10:22.736099+00:00"
+        }
+    ]
+}

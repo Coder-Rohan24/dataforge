@@ -1,0 +1,20 @@
+{
+    "upload_id": "6e9cf66e-fe53-4da0-b4e4-1e810fbd758e",
+    "original_name": "iris",
+    "username": "anirban",
+    "upload_time": "2025-05-04T12:37:23.872901+00:00",
+    "columns": [
+        "sepal.length",
+        "sepal.width",
+        "petal.length",
+        "petal.width",
+        "variety"
+    ],
+    "linked_models": [
+        {
+            "model_type": "decision_tree",
+            "model_path": "C:\\Users\\HP\\OneDrive\\Desktop\\Data\\DataForge\\backend\\app\\api\\models\\anirban\\6e9cf66e-fe53-4da0-b4e4-1e810fbd758e_decision_tree.pkl",
+            "trained_at": "2025-05-04T12:38:15.269245+00:00"
+        }
+    ]
+}

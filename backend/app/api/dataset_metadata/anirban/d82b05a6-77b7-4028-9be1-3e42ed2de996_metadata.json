@@ -1,0 +1,22 @@
+{
+    "upload_id": "d82b05a6-77b7-4028-9be1-3e42ed2de996",
+    "original_name": "tips",
+    "username": "anirban",
+    "upload_time": "2025-05-04T12:40:40.270506+00:00",
+    "columns": [
+        "total_bill",
+        "tip",
+        "sex",
+        "smoker",
+        "day",
+        "time",
+        "size"
+    ],
+    "linked_models": [
+        {
+            "model_type": "random_forest_regressor",
+            "model_path": "C:\\Users\\HP\\OneDrive\\Desktop\\Data\\DataForge\\backend\\app\\api\\models\\anirban\\d82b05a6-77b7-4028-9be1-3e42ed2de996_random_forest_regressor.pkl",
+            "trained_at": "2025-05-04T12:42:42.808558+00:00"
+        }
+    ]
+}

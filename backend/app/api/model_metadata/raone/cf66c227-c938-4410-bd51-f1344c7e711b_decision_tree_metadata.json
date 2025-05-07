@@ -1,0 +1,18 @@
+{
+    "model_name": "DecisionTreeClassifier",
+    "upload_id": "cf66c227-c938-4410-bd51-f1344c7e711b",
+    "model_type": "decision_tree",
+    "username": "raone",
+    "trained_at": "2025-05-02T20:57:56.661496",
+    "metrics": {
+        "accuracy": 0.9666666666666667,
+        "f1_score": 0.967304625199362,
+        "r2_score": 0,
+        "mse": 0,
+        "auc_roc": 0.525
+    },
+    "model_path": "C:\\Users\\HP\\OneDrive\\Desktop\\Data\\DataForge\\backend\\app\\api\\models\\raone\\cf66c227-c938-4410-bd51-f1344c7e711b_decision_tree.pkl",
+    "tuner_type": "none",
+    "automl": false,
+    "shap_plot_path": null
+}
