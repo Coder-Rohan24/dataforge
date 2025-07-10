@@ -148,3 +148,27 @@ export const fetchUserModels = async () => {
   });
   return res.data; // Each model includes dataset details
 }
+
+export const fetchUserProfile = async () => {
+  const token = localStorage.getItem("token");
+  const response = await axios.get(`${API_BASE}/auth/user/profile`, {
+    headers: {
+      Authorization: `Bearer ${token}`,
+    },
+  });
+  return response.data;
+};
+
+export const updateUserProfile = async (userData) => {
+  const token = localStorage.getItem("token");
+  const response = await axios.put(
+    `${API_BASE}/auth/user/profile`,
+    { name: userData.name },
+    {
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+    }
+  );
+  return response.data;
+};

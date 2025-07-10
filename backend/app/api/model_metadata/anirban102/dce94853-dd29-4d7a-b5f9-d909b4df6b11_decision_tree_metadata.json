@@ -1,0 +1,18 @@
+{
+    "model_name": "DecisionTreeClassifier",
+    "upload_id": "dce94853-dd29-4d7a-b5f9-d909b4df6b11",
+    "model_type": "decision_tree",
+    "username": "anirban102",
+    "trained_at": "2025-05-11T09:15:54.657118+00:00",
+    "metrics": {
+        "accuracy": 0.9666666666666667,
+        "f1_score": 0.967304625199362,
+        "r2_score": 0,
+        "mse": 0,
+        "auc_roc": 0.525
+    },
+    "model_path": "C:\\Users\\HP\\OneDrive\\Desktop\\Dataforge\\dataforge\\backend\\app\\api\\models\\anirban102\\dce94853-dd29-4d7a-b5f9-d909b4df6b11_decision_tree.pkl",
+    "tuner_type": "none",
+    "automl": false,
+    "shap_plot_path": null
+}

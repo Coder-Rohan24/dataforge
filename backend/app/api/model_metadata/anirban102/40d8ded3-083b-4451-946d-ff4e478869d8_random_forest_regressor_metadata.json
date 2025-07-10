@@ -1,0 +1,18 @@
+{
+    "model_name": "RandomForestRegressor",
+    "upload_id": "40d8ded3-083b-4451-946d-ff4e478869d8",
+    "model_type": "random_forest_regressor",
+    "username": "anirban102",
+    "trained_at": "2025-05-11T09:19:24.538788+00:00",
+    "metrics": {
+        "accuracy": 0,
+        "f1_score": 0,
+        "r2_score": 0.027325372821554672,
+        "mse": 1042.3497033713043,
+        "auc_roc": 0
+    },
+    "model_path": "C:\\Users\\HP\\OneDrive\\Desktop\\Dataforge\\dataforge\\backend\\app\\api\\models\\anirban102\\40d8ded3-083b-4451-946d-ff4e478869d8_random_forest_regressor.pkl",
+    "tuner_type": "bayesian_optimization",
+    "automl": false,
+    "shap_plot_path": null
+}
